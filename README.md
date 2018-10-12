@@ -1,5 +1,5 @@
 # Hexadecimal para Decimal
-Programa simples de conversão de número em base 16 para base 10.
+Algoritmo simples de conversão de número em base 16 para base 10.
 
 O programa deve ser compilado com a seguinte linha de comando:
 
